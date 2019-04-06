@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="backbone" size="6.000000 9.257143" />
+    <ImageTarget name="heart2" size="6.000000 7.929515" />
+    <ImageTarget name="brain2" size="6.000000 6.000000" />
+    <ImageTarget name="human_skull" size="6.000000 5.192307" />
+    <ImageTarget name="human_skeleton" size="6.000000 6.480000" />
+    <ImageTarget name="test" size="6.000000 8.342451" />
+  </Tracking>
+</QCARConfig>
